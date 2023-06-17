@@ -1,0 +1,62 @@
+titre,auteur,genre,annee,prix,quantite
+To Kill a Mockingbird,Harper Lee,Fiction,1960,15.99,20
+1984,George Orwell,Fiction,1949,17.99,15
+The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,14.99,10
+The Catcher in the Rye,J.D. Salinger,Fiction,1951,12.99,8
+Pride and Prejudice,Jane Austen,Romance,1813,10.99,25
+The Hobbit,J.R.R. Tolkien,Fantasy,1937,20.99,10
+Moby Dick,Herman Melville,Fiction,1851,12.99,14
+War and Peace,Leo Tolstoy,History,1869,18.99,7
+Great Expectations,Charles Dickens,Fiction,1861,11.99,10
+Ulysses,James Joyce,Fiction,1922,16.99,8
+Catch-22,Joseph Heller,Fiction,1961,14.99,10
+Brave New World,Aldous Huxley,Science Fiction,1932,13.99,15
+Crime and Punishment,Fyodor Dostoevsky,Mystery,1866,15.99,12
+Gone with the Wind,Margaret Mitchell,Romance,1936,12.99,20
+The Odyssey,Homer,Adventure,700 BC,14.99,10
+The Divine Comedy,Dante Alighieri,Mythology,1320,17.99,10
+The Iliad,Homer,Adventure,762 BC,14.99,15
+Don Quixote,Miguel de Cervantes,Fiction,1605,16.99,20
+The Adventures of Huckleberry Finn,Mark Twain,Fiction,1884,13.99,25
+The Adventures of Tom Sawyer,Mark Twain,Fiction,1876,11.99,30
+The Picture of Dorian Gray,Oscar Wilde,Fiction,1890,12.99,8
+Frankenstein,Mary Shelley,Horror,1818,14.99,10
+Dracula,Bram Stoker,Horror,1897,13.99,15
+The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,15.99,10
+Little Women,Louisa May Alcott,Fiction,1868,14.99,15
+Sense and Sensibility,Jane Austen,Romance,1811,12.99,20
+Wuthering Heights,Emily Bronte,Romance,1847,14.99,25
+The Old Man and the Sea,Ernest Hemingway,Adventure,1952,10.99,30
+One Hundred Years of Solitude,Gabriel Garcia Marquez,Fiction,1967,15.99,15
+The Brothers Karamazov,Fyodor Dostoevsky,Mystery,1880,16.99,20
+The Metamorphosis,Franz Kafka,Fiction,1915,9.99,25
+David Copperfield,Charles Dickens,Fiction,1850,13.99,18
+The Trial,Franz Kafka,Mystery,1925,12.99,20
+Madame Bovary,Gustave Flaubert,Romance,1856,14.99,12
+The Stranger,Albert Camus,Fiction,1942,11.99,30
+Les Misérables,Victor Hugo,History,1862,17.99,20
+The Scarlet Letter,Nathaniel Hawthorne,Fiction,1850,10.99,25
+Anna Karenina,Leo Tolstoy,Romance,1877,16.99,15
+A Tale of Two Cities,Charles Dickens,History,1859,12.99,20
+The Grapes of Wrath,John Steinbeck,History,1939,15.99,10
+Of Mice and Men,John Steinbeck,Fiction,1937,9.99,35
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,20.99,15
+Alice's Adventures in Wonderland,Lewis Carroll,Children,1865,8.99,50
+Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,1997,14.99,60
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy,1998,14.99,55
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Fantasy,1999,14.99,50
+The Kite Runner,Khaled Hosseini,Fiction,2003,13.99,45
+Atonement,Ian McEwan,Fiction,2001,14.99,30
+The Da Vinci Code,Dan Brown,Mystery,2003,15.99,40
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,2005,14.99,35
+The Hunger Games,Suzanne Collins,Fantasy,2008,13.99,55
+The Fault in Our Stars,John Green,Romance,2012,12.99,50
+Fifty Shades of Grey,E. L. James,Romance,2011,11.99,60
+The Maze Runner,James Dashner,Adventure,2009,10.99,45
+Divergent,Veronica Roth,Fantasy,2011,12.99,55
+Gone Girl,Gillian Flynn,Mystery,2012,14.99,30
+The Alchemist,Paulo Coelho,Adventure,2005,13.99,40
+A Game of Thrones,George R. R. Martin,Fantasy,2005,15.99,35
+The Help,Kathryn Stockett,History,2009,14.99,30
+The Girl on the Train,Paula Hawkins,Mystery,2015,13.99,40
+Twilight,Stephenie Meyer,Romance,2005,12.99,50
